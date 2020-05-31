@@ -1,6 +1,6 @@
 # yeetrix
 
-Matrix rain with shrek yeets. <img src="https://raw.githubusercontent.com/dotheygandalf/yeetrix/master/public/images/big%20boss%20shrek.png" alt="alt text" width="30" height="30"><img src="https://raw.githubusercontent.com/dotheygandalf/yeetrix/master/public/images/big%20mood.png" alt="alt text" width="30" height="30">
+Matrix rain with shrek yeets hosted on [yeetrix.com](https://yeetrix.com/). <img src="https://raw.githubusercontent.com/dotheygandalf/yeetrix/master/public/images/big%20boss%20shrek.png" alt="alt text" width="30" height="30"><img src="https://raw.githubusercontent.com/dotheygandalf/yeetrix/master/public/images/big%20mood.png" alt="alt text" width="30" height="30">
 <img src="https://raw.githubusercontent.com/dotheygandalf/yeetrix/master/public/images/pirate-shrek.png" alt="alt text" width="30" height="30">
 <img src="https://raw.githubusercontent.com/dotheygandalf/yeetrix/master/public/images/chef-shrek-kiss.png" alt="alt text" width="30" height="30">
 <img src="https://raw.githubusercontent.com/dotheygandalf/yeetrix/master/public/images/rad-but-mad-but-thankful-cowboy-shrek.png" alt="alt text" width="30" height="30">
