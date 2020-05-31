@@ -43,7 +43,7 @@ setTimeout(() => {
   //x below is the x coordinate
   //1 = y co-ordinate of the drop(same for every drop initially)
   for (var x = 0; x < columns; x++)
-    drops[x] = 1;
+    drops[x] = 0;
 
   //drawing the characters
   function draw() {
@@ -64,7 +64,7 @@ setTimeout(() => {
       //sending the drop back to the top randomly after it has crossed the screen
       //adding a randomness to the reset to make the drops scattered on the Y axis
       if (drops[i] * font_size > c.height && Math.random() > 0.975)
-        drops[i] = 0;
+        drops[i] = -1;
 
       //incrementing Y coordinate
       drops[i]++;
